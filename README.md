@@ -4,7 +4,7 @@ Mi nombre es _José Eliud Jiménez Prieto_ 👦
 
 📚 Actualmente Estudio ingeniería en Sistemas Computacionales 🖥️
 
-🐱 Mi usuario de Guthub: JEJP11 📂
+🐱 Mi usuario de Github: JEJP11 📂
 
 🕙 Tengo 21 años de edad 📆
 
