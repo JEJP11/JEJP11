@@ -1,4 +1,21 @@
-### Hi there 👋
+## HOLA 🤘
+
+Mi nombre es _José Eliud Jiménez Prieto_ 👦
+
+📚 Actualmente Estudio ingeniería en Sistemas Computacionales 🖥️
+
+🐱 Mi usuario de Guthub: JEJP11 📂
+
+🕙 Tengo 21 años de edad 📆
+
+🏅 Me gusta el fútbol ⚽
+
+🎥 Me gusta el género de suspenso y detectives 🔎
+
+🎵 Me gusta la música, en especial la que acompaña con violín 🎻
+
+
+
 
 <!--
 **JEJP11/JEJP11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
